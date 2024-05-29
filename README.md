@@ -3,6 +3,15 @@
 ### What's there to know? 
 I've only ran this locally via localhost, but might get it running on my website soon to archive it and make it easier for others to access 
 
+### Gameplay
+Very simple: You drink found beers, these give you farts. You must fart on the disco-dance-floor 'ravers' to keep them away from you. If you don't, it's game over, man. 
+
+### CONTROLS
+
+F - Fart
+Enter - Start/Pause/Restart
+Up, Down, Left, Right - Movement keys 
+
 #### Credits:
 Art (whiteboard drawings, digital colouring) - Me
 
