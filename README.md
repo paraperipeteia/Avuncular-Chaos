@@ -9,7 +9,9 @@ Very simple: You drink found beers, these give you farts. You must fart on the d
 ### CONTROLS
 
 F - Fart
+
 Enter - Start/Pause/Restart
+
 Up, Down, Left, Right - Movement keys 
 
 #### Credits:
