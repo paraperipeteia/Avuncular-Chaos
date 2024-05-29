@@ -74,8 +74,8 @@ function setup()
     pauseSprite = loadImage('sprites/pause.png'); 
     titleSprite = loadImage('sprites/title.png'); 
 
-    song.setVolume(0.25);
-    fartSound.setVolume(0.15);
+    song.setVolume(0.35);
+    fartSound.setVolume(0.25);
     dieScream.setVolume(0.05);
 
     TheAvalanche = new Avalanche(50, canvasY/2, 1);
