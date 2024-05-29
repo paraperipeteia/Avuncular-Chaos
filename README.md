@@ -1,3 +1,6 @@
+<p align="center">
+<img src="sprites/title.png">
+</p>
 ## Avuncular Chaos - A game-jam game about a drunken, farting uncle hitting the dance floor!
 
 ### What's there to know? 
